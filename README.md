@@ -49,5 +49,5 @@ This project focuses on fixing that by prioritizing **Recall** over raw accuracy
 * **Yahya Eltagredy** - [GitHub](https://github.com/eltagredy122)
 * **Yousry Oraby** - [GitHub](https://github.com/YousryOraby)
 * **Menna Zoghla** - [GitHub](https://github.com/Menna-Khaled9)
-* **Sandy Makram** - [GitHub](https://github.com/S78958)
+* **Sandy Makram** - [GitHub](https://github.com/SandyMakram12)
 * **Hesham Mohamed** - [GitHub](https://github.com/Hesham2006)
